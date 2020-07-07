@@ -1,0 +1,15 @@
+{
+  "name": "mdx-deck-template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:corrinachow/mdx-deck-template.git",
+  "license": "MIT",
+  "scripts": {
+    "start": "mdx-deck deck.mdx",
+    "build": "mdx-deck build deck.mdx"
+  },
+  "dependencies": {
+    "mdx-deck": "^4.1.1",
+    "styled-components": "^5.1.1"
+  }
+}
