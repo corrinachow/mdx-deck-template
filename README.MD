@@ -1,12 +1,14 @@
 # MDX Deck Template
 
+![MDX Deck Template Preview](./docs/mdx-deck-template-preview.png)
+
 ## Usage
 
-Run `yarn install` in the root.
+Run `yarn install` in the root
 
-Run `yarn start`.
+Run `yarn start`
 
-To build, run `yarn build`.
+To build, run `yarn build`
 
 ## Features to add
 - Deployment
